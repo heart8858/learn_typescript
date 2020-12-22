@@ -16,5 +16,8 @@
 
 // import './01_泛型'
 // import './02_多个泛型参数的函数'
-import './03_泛型接口'
+// import './03_泛型接口'
+// import './04_泛型类'
+// import './泛型'
+import './02_内置对象'
 document.write('插队孤儿西内')

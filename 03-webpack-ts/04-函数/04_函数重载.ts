@@ -5,6 +5,7 @@
     // 函数重载声明
     function add(x: string, y: string): string
     function add(x: number, y: number): number
+
     function add(x: string | number, y: string | number): string | number {
         if (typeof x === 'string' && typeof y === 'string') {
             return x + y // 字符串拼接
